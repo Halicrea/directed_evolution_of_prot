@@ -1,0 +1,5 @@
+>1C8C_2|Chain C[auth A]|DNA-BINDING PROTEIN 7A|Sulfolobus solfataricus (2287)
+>1C8C_2|Chain C[auth A]|DNA-BINDING PROTEIN 7A|Sulfolobus solfataricus (2287)
+>1C8C_2|Chain C[auth A]|DNA-BINDING PROTEIN 7A|Sulfolobus solfataricus (2287)
+>1C8C_2|Chain C[auth A]|DNA-BINDING PROTEIN 7A|Sulfolobus solfataricus (2287)
+>1C8C_2|Chain C[auth A]|DNA-BINDING PROTEIN 7A|Sulfolobus solfataricus (2287)

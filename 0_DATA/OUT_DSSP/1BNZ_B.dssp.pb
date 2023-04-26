@@ -1,0 +1,5 @@
+>1BNZ_2|Chain C[auth A]|DNA-BINDING PROTEIN 7A|Sulfolobus acidocaldarius (2285)
+>1BNZ_2|Chain C[auth A]|DNA-BINDING PROTEIN 7A|Sulfolobus acidocaldarius (2285)
+>1BNZ_2|Chain C[auth A]|DNA-BINDING PROTEIN 7A|Sulfolobus acidocaldarius (2285)
+>1BNZ_2|Chain C[auth A]|DNA-BINDING PROTEIN 7A|Sulfolobus acidocaldarius (2285)
+>1BNZ_2|Chain C[auth A]|DNA-BINDING PROTEIN 7A|Sulfolobus acidocaldarius (2285)

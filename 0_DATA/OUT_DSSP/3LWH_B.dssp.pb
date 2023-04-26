@@ -1,0 +1,5 @@
+>3LWH_2|Chains B, C|DNA (5'-D(*GP*TP*AP*AP*TP*TP*AP*C)-3')|
+>3LWH_2|Chains B, C|DNA (5'-D(*GP*TP*AP*AP*TP*TP*AP*C)-3')|
+>3LWH_2|Chains B, C|DNA (5'-D(*GP*TP*AP*AP*TP*TP*AP*C)-3')|
+>3LWH_2|Chains B, C|DNA (5'-D(*GP*TP*AP*AP*TP*TP*AP*C)-3')|
+>3LWH_2|Chains B, C|DNA (5'-D(*GP*TP*AP*AP*TP*TP*AP*C)-3')|

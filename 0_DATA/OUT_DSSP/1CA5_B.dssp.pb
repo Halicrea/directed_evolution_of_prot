@@ -1,0 +1,5 @@
+>1CA5_2|Chain C[auth A]|CHROMOSOMAL PROTEIN SAC7D|Sulfolobus acidocaldarius (2285)
+>1CA5_2|Chain C[auth A]|CHROMOSOMAL PROTEIN SAC7D|Sulfolobus acidocaldarius (2285)
+>1CA5_2|Chain C[auth A]|CHROMOSOMAL PROTEIN SAC7D|Sulfolobus acidocaldarius (2285)
+>1CA5_2|Chain C[auth A]|CHROMOSOMAL PROTEIN SAC7D|Sulfolobus acidocaldarius (2285)
+>1CA5_2|Chain C[auth A]|CHROMOSOMAL PROTEIN SAC7D|Sulfolobus acidocaldarius (2285)

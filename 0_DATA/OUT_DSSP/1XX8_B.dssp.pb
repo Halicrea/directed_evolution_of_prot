@@ -1,0 +1,3 @@
+>1XX8_1|Chain A|Sac7d|Sulfolobus acidocaldarius (2285)
+>1XX8_1|Chain A|Sac7d|Sulfolobus acidocaldarius (2285)
+>1XX8_1|Chain A|Sac7d|Sulfolobus acidocaldarius (2285)

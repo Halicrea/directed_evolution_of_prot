@@ -1,0 +1,5 @@
+>1BF4_3|Chain C[auth A]|PROTEIN (CHROMOSOMAL PROTEIN SSO7D)|Sulfolobus acidocaldarius (2285)
+>1BF4_3|Chain C[auth A]|PROTEIN (CHROMOSOMAL PROTEIN SSO7D)|Sulfolobus acidocaldarius (2285)
+>1BF4_3|Chain C[auth A]|PROTEIN (CHROMOSOMAL PROTEIN SSO7D)|Sulfolobus acidocaldarius (2285)
+>1BF4_3|Chain C[auth A]|PROTEIN (CHROMOSOMAL PROTEIN SSO7D)|Sulfolobus acidocaldarius (2285)
+>1BF4_3|Chain C[auth A]|PROTEIN (CHROMOSOMAL PROTEIN SSO7D)|Sulfolobus acidocaldarius (2285)
